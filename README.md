@@ -56,4 +56,4 @@ plt.title(f"Linear Regression (R² = {r2:.2f})")
 plt.legend()
 plt.show()
 
-![Study Hours vs Exam Score](R2-squred-4output.png)
+![Study Hours vs Exam Score](R2-squred-4output.png) 
