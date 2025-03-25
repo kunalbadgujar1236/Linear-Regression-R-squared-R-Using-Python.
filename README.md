@@ -1,0 +1,1 @@
+# Linear-Regression-R-squared-R-Using-Python.
