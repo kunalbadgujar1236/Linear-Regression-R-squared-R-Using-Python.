@@ -55,5 +55,5 @@ plt.ylabel("Exam Score")
 plt.title(f"Linear Regression (R² = {r2:.2f})")
 plt.legend()
 plt.show()
-* Study Hours vs Exam Score [R2-squred-4output.png](https://github.com/kunalbadgujar1236/Linear-Regression-R-squared-R-Using-Python./blob/main/R2-squred-4output.png)
-![Study Hours vs Exam Score]([Image URL](https://github.com/kunalbadgujar1236/Linear-Regression-R-squared-R-Using-Python./blob/main/R2-squred-4output.png))
+
+![Study Hours vs Exam Score]([Image URL](https://github.com/kunalbadgujar1236/Linear-Regression-R-squared-R-Using-Python./blob/main/R2-squred-4output.png)
